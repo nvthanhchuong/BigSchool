@@ -1,3 +1,7 @@
 Nguyen Van Thanh Chuong
 1811060082
+<<<<<<< HEAD
 Sửa file máy khác
+=======
+Sửa file máy chính
+>>>>>>> 13824b2c7aad22e48b76cc16c8fcc217b54792a6
